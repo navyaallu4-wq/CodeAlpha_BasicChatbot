@@ -55,13 +55,14 @@ python chatbot.py
 
 ```
 CodeAlpha_BasicChatbot/
-│
+
 ├── chatbot.py
-├── chatbot.ipynb
 ├── chat_history.txt
 ├── README.md
 ├── requirements.txt
-└── screenshots/
+├── welcome_screen.png
+├── features_demo.png
+└── session_summary.png
 ```
 
 ---
